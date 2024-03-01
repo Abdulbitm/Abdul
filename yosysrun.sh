@@ -1,9 +1,9 @@
 # read design
 
-read_verilog iiitb_rv32i.v
+read_verilog Abdul.v
 
 # generic synthesis
-synth -top iiitb_rv32i
+synth -top Abdul  
 
 # mapping to mycells.lib
 dfflibmap -liberty /Users/vinayrayapati/Desktop/Vinay/RISC-V/iiitb_rv32i-main/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
