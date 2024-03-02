@@ -1,4 +1,4 @@
-module Abdul(clk,RN,NPC,WB_OUT);
+module hello(clk,RN,NPC,WB_OUT);
 input clk;
 input RN;
 //input EN;
