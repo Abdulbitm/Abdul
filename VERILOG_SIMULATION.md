@@ -1,4 +1,4 @@
-# iiitb_rv32i-risc-v rv32i
+# Abdulbitm - riscv32 - hello
 
 # Table of contents
 - [1.RISC-V RV32I](#1-RISC-V-RV32I)
