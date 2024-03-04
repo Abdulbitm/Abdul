@@ -1,5 +1,7 @@
-# Abdulbitm - riscv32 - hello
+# As per the Update given for the next task "Should Use the RISC-V Core Verilog netlist and testbench for functional Simulation.
+# Veriog code is being executed and the waveforms are generated using the gtkwave
 
+# Aim: To verify the Functional Simulation:-
 # Table of contents
 - [1.RISC-V RV32I](#1-RISC-V-RV32I)
  - [2.BLOCK DIAGRAM OF RISC-V RV32I](#2-BLOCK-DIAGRAM-OF-RISC-V-RV32I)
