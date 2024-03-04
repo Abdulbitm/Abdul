@@ -38,6 +38,14 @@ This project provides an insight into the working of a few important instruction
  $   sudo apt get install iverilog gtkwave
  ```
 
+![install_i_verilog_gtkwave](https://github.com/Abdulbitm/Abdul/assets/160620896/60e99641-aefa-413b-9877-53aedc86faa3)
+
+- **To clone the repository and download the netlist files for simulation, enter the following commands in your terminal.**
+
+ ```
+ $ git clone https://github.com/Abdulbitm/Abdul
+ $ cd Abdul
+![changing directory_Abdul](https://github.com/Abdulbitm/Abdul/assets/160620896/c4c22216-3de1-4337-985f-c1347a629cf1)
 
 
 
