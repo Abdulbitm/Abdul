@@ -45,7 +45,15 @@ This project provides an insight into the working of a few important instruction
  ```
  $ git clone https://github.com/Abdulbitm/Abdul
  $ cd Abdul
+```
 ![changing directory_Abdul](https://github.com/Abdulbitm/Abdul/assets/160620896/c4c22216-3de1-4337-985f-c1347a629cf1)
 
+- **To simulate and run the Verilog code, enter the following commands in your terminal.**
 
+  ```
+$ iverilog -o hello hello.v hello_tb.v
+$ ./hello
 
+```
+
+![running verilog code using iverilog](https://github.com/Abdulbitm/Abdul/assets/160620896/46375be6-64b8-477b-b6ee-8e389e3a064f)
