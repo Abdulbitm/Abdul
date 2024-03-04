@@ -104,8 +104,10 @@ Instruction 4:or r9,r2,r5
   Full 5-stage instruction pipeline and pc-increment description Waveform
   
 <img width="1325" alt="12" src="https://github.com/Abdulbitm/Abdul/assets/160620896/e5ebc923-ad2c-44fc-a577-3ce7b8419bce">
-![w6](https://github.com/Abdulbitm/Abdul/assets/160620896/22e33935-74ef-46a8-ba8d-a9b7be633e25)
-![RISCV_folder](https://github.com/Abdulbitm/Abdul/assets/160620896/b0812173-6b34-4420-a412-8e23ace50ba4)
+
+![w6](https://github.com/Abdulbitm/Abdul/assets/160620896/d39e08b3-38e9-43bd-a814-c53faebf0607)
+
+![RISCV_folder](https://github.com/Abdulbitm/Abdul/assets/160620896/669887ed-9ab6-48f1-8cf8-83e5f3eec2bd)
 
 
 
